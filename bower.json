@@ -1,0 +1,22 @@
+{
+  "name": "3.3",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Andreas Ek <andreas@andreasek.se>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ekandreas/newsflow33",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "~0.5.2"
+  }
+}

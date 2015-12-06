@@ -1,3 +1,9 @@
-.DS_STORE
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
 .vagrant
-/vendor/
+storage
+npm-debug.log
+.env.example
