@@ -1,0 +1,12 @@
+{
+    "name": "ekandreas/newsflow33",
+    "authors": [
+        {
+            "name": "Andreas Ek",
+            "email": "andreas@andreasek.se"
+        }
+    ],
+    "require": {
+        "deployer/deployer": "^3.0"
+    }
+}
